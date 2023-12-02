@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pho.adventofcode.y2023.day02.GameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-02T14:22:12" hostname="L-PW03AH5KS" time="0.015">
+  <properties/>
+  <testcase name="gameShouldBePossible()" classname="pho.adventofcode.y2023.day02.GameTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
